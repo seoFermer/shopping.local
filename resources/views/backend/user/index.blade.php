@@ -7,6 +7,7 @@
             <div class="row mb-2">
                 <div class="col-sm-6">
                     <h1 class="m-0">{{ trans('translate.User') }}</h1>
+                    <p>Main 123</p>
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
